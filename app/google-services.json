@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340807431003",
+    "firebase_url": "https://clube-da-bebida.firebaseio.com",
+    "project_id": "clube-da-bebida",
+    "storage_bucket": "clube-da-bebida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340807431003:android:8e68c2163692b3c6",
+        "android_client_info": {
+          "package_name": "clubedabebida.com.clubedabebida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340807431003-bf919a9rh9m45rpk8pqa6f1o0k61aelc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQASjJWG0L0rJaLY8T8JlmQ3fK7IilzxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
